@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+jupyter
+
+# The notebook was run and checked with pandas 3.0.6, numpy 2.5.4,
+# matplotlib 3.11.2 and seaborn 0.13.2.
